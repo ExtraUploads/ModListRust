@@ -1,0 +1,65 @@
+ - Mod List, User Syntax,  User Permission, Command Syntax, Active States of Mods.
+
+>-Active Sort >-Used By Players
+	-No Command
+>-AdminDeepCover >-Used By Admins
+	-No Command
+>-AdminPanel >-Used By Admins
+	-/adminpanel <show|hide>
+>-AutoCode >-Used By Players
+	-/code <set|random>
+>-AutomaticPluginUpdater >-Used by No one
+	-No Command
+>-Backpacks >-Used By Everyone
+	-No Command
+	-Button GUI
+>-BetterChat >-Used By Everyone
+	-No Command
+>-BetterLoot >-Used By Everyone
+	-No Command
+>-BlueprintManager >-Used By Everyone
+	-No Command
+>-BombTrucks >-Used by Admins, for now
+	-/bombtruck <name>
+>-BradleyGuards >-Used by Everyone
+	-No Command
+>-BreakableCCTV >-Used By Players
+	-No Command
+>-BuildingGrades >-Used By Everyone
+	-/up <1|2|3|4>
+>-ChinookDropRandomizer >-Used By Players
+	-No Command
+>-Clans >-Used By Everyone
+	-/clanhelp (Too Many Commands)
+>-ClanTeam >-Used By Everyone
+	-No Command
+>-CraftChassis >-Used By Everyone
+	-No Command
+>-Freeze >-Used By Admins
+	-Used in Admin Panel
+>-InstantCraft >-Used By Everyone
+	-No Command
+>-InventoryViewer >-Used by Admins
+	-Used in Admin Panel
+>-MovableCCTV >-Used By Everyone
+	-No Command
+>-NoCrashFlyingVehicles >-Used By No one
+	-???
+>-NoDurability >-Used By Everyone
+	-No Command
+>-NoWorkbench >-Used By Everyone
+	-No Command
+>-PermissionManager >-Used By Owner
+	-/perms
+>-PlayerAdministrationPanel >-Used By Admins
+	-/padmin
+>-Removertool >-Used By Everyone
+	-/remove
+>-StackMultiplier >-Used By Everyone
+	-No Command
+>-ToolCupboardTurrets >-Used By Players
+	-No Command
+>-TownTeleport >-Used by Players
+	-/otp|/btp
+>-Vanish >-Used By Admins
+	-/vanish
